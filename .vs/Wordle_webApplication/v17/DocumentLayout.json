@@ -3,16 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\wwwroot\\js\\light_dark.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\wwwroot\\js\\light_dark.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Wordle_webApplication\\Controllers\\HomeController.cs",
@@ -44,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Program.cs",
               "RelativeDocumentMoniker": "Wordle_webApplication\\Program.cs",
@@ -53,8 +105,7 @@
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T22:43:52.849Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -63,28 +114,190 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "light_dark.js",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\wwwroot\\js\\light_dark.js",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\wwwroot\\js\\light_dark.js",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\wwwroot\\js\\light_dark.js",
+              "RelativeToolTip": "Wordle_webApplication\\wwwroot\\js\\light_dark.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-10T21:07:32.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T21:00:12.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T21:00:12.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:37:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Wordle_webApplication\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-10T21:00:13.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-10T14:08:41.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:00:12.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:00:11.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:39:05.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:39:04.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExternalLogins.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:38:41.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:38:39.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:38:22.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:38:26.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "Wordle_webApplication\\wwwroot\\js\\script.js",
               "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\wwwroot\\js\\script.js",
               "RelativeToolTip": "Wordle_webApplication\\wwwroot\\js\\script.js",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-09T23:24:49.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T23:24:49.164Z"
             }
           ]
         },

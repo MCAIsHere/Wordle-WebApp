@@ -1,0 +1,16 @@
+﻿@page
+@model ConfirmEmailModel
+
+<link href="~/css/login&register.css" type="text/css" rel="stylesheet" />
+<script src="~/js/light_dark.js" type="text/javascript"></script>
+<div id="upper-bar">
+    <a asp-controller="Home" asp-action="Index" class="title">Wordle</a>
+    <div class="theme-toggle">
+        <img src="~/images/sun.png" id="sun">
+        <img src="~/images/moon.png" id="moon">
+    </div>
+</div>
+<div style="color:#333; padding: 2rem;">
+    <partial name="_StatusMessage" model="Model.StatusMessage" />
+</div>
+<a asp-page="./Login" class="form-links">Go back to the login page</a>
