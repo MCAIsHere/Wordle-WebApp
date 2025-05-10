@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|c:\\users\\40757\\desktop\\cs\\wordle_webapplication\\wordle_webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038D217E-45AF-478F-8AB3-A5A502E9D536}|Wordle_webApplication\\Wordle_webApplication.csproj|solutionrelative:wordle_webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Wordle_webApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:34:24.073Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Program.cs",
+              "RelativeToolTip": "Wordle_webApplication\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T22:43:52.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Wordle_webApplication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T14:08:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "Wordle_webApplication\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\40757\\Desktop\\CS\\Wordle_webApplication\\Wordle_webApplication\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "Wordle_webApplication\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-09T23:24:49.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1099,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1099,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

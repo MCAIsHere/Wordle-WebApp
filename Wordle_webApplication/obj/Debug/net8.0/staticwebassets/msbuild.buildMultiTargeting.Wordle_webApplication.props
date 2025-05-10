@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Wordle_webApplication.props" />
+</Project>

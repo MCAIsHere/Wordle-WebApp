@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<title>Wordle</title>
+<link rel="icon" type="image/x-icon" href="images/Wordle.png">
+<link href="~/css/style.css" type="text/css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+<script type="text/javascript" src="~/js/script.js" asp-append-version="true"></script>
+<script type="text/javascript" src="/js/light_dark.js" asp-append-version="true"></script>
+<script type="text/javascript">
+    var Words_already_used = @Html.Raw(Json.Serialize(ViewBag.Words));
+</script>
+
+
+<div id="upper-bar">
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div style="display:flex; gap: 1rem; align-items: center; justify-content: center; height: 100%;">
+            <h3 style="color: #555">
+                Welcome back @ViewBag.Username!
+            </h3>
+            <form asp-action="Logout" method="post" class="logout-form">
+                <button type="submit">Logout</button>
+            </form>
+        </div>
+    }
+    else
+    {
+        <a asp-area="Identity" asp-page="/Account/Login" class="login">Log in</a>
+    }
+    <a asp-controller="Home" asp-action="Index" class="title">Wordle</a>
+    <div class="theme-toggle">
+        <img src="~/images/sun.png" id="sun">
+        <img src="~/images/moon.png" id="moon">
+    </div>
+</div>
+
+<header id="Show_the_word"></header>
+
+<div id="board">
+    <!-- JS -->
+</div>
+
+<div id="keyboard">
+    <!-- JS -->
+</div>

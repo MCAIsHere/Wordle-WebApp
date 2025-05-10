@@ -1,0 +1,47 @@
+﻿@page
+@model LoginModel
+<link href="~/css/login&register.css" type="text/css" rel="stylesheet" />
+<script src="~/js/light_dark.js" type="text/javascript"></script>
+
+<div id="upper-bar">
+    <a asp-controller="Home" asp-action="Index" class="title">Wordle</a>
+    <div class="theme-toggle">
+        <img src="~/images/sun.png" id="sun">
+        <img src="~/images/moon.png" id="moon">
+    </div>
+</div>
+<section>
+    <form id="account" method="post">
+        <h2>Log in</h2>
+        <hr />
+        <div asp-validation-summary="ModelOnly" role="alert"></div>
+        <div class="form-group">
+            <label asp-for="Input.Email" class="form-label">Email</label>
+            <input asp-for="Input.Email" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+            <span asp-validation-for="Input.Email" class="validation-message"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Input.Password" class="form-label">Password</label>
+            <input asp-for="Input.Password" autocomplete="current-password" aria-required="true" placeholder="password" />
+            <span asp-validation-for="Input.Password" class="validation-message"></span>
+        </div>
+        <div class="form-group checkbox-group">
+            <label asp-for="Input.RememberMe" class="checkbox-label">
+                <input asp-for="Input.RememberMe" />
+                @Html.DisplayNameFor(m => m.Input.RememberMe)
+            </label>
+        </div>
+        <div class="form-group">
+            <button id="login-submit" type="submit" class="submit-button">Log in</button>
+        </div>
+        <div class="form-links">
+            <p class="form-link">
+                <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
+            </p>
+        </div>
+    </form>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

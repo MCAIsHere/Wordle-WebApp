@@ -1,0 +1,226 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #151414;
+}
+
+#upper-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2vh 2rem;
+  width: 100%;
+  border-bottom: 3px solid #808080;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#upper-bar .title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  flex: 1;
+  text-align: center;
+}
+
+#upper-bar .login {
+  font-size: 1rem;
+  color: #555;
+  margin: 0;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+#upper-bar .theme-toggle {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+#upper-bar .theme-toggle img {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+#upper-bar .theme-toggle img:hover {
+  transform: scale(1.1);
+}
+
+#Show_the_word{
+  display: block;
+  text-align: center;
+  position: absolute;
+  top: 10.5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  border: 2px solid #808080FF;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+#board{
+  display: grid;
+  width: 300px;
+  height: 360px;
+  justify-content: space-around;
+  align-items: center;
+  margin: 40px;
+}
+
+#board > div{
+  border: 2px solid #808080FF;
+  width: 60px;
+  height: 60px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+  font-size: 24px;
+
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-weight: bold;
+}
+
+#board > div > div{
+  position: absolute;
+  top: 0;
+  width: 30px;
+  height: 30px;
+  animation: flip 1s linear infinite;
+}
+
+#board > div:nth-of-type(-n+5) {
+  grid-row-start: 1
+}
+
+.green{
+  animation: green_tile 1.75s forwards;
+}
+
+.yellow{
+  animation: yellow_tile 1.75s forwards;
+}
+
+.gray{
+  animation: gray_tile 1.75s forwards;
+}
+
+@keyframes green_tile {
+  0% {background-color: transparent}
+  100% {background-color: #6aaa64}
+}
+
+@keyframes yellow_tile {
+  0% {background-color: transparent}
+  100% {background-color: #c9b458}
+}
+
+@keyframes gray_tile {
+  0% {background-color: transparent}
+  100% {background-color: #787c7e}
+}
+
+#keyboard{
+  display: grid;
+  grid-template-columns: repeat(12, 65px);
+  grid-template-rows: repeat(3, 65px);
+  width: 800px;
+  justify-content: center;
+}
+
+#keyboard > div{
+  background-color: #c5c3c3;
+  border: 3px solid #808080FF;
+  border-radius: 10px;
+  text-align: center;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
+#keyboard > div:not(#ENTER):not(#BACKSPACE) {
+  width: 60px;
+}
+#BACKSPACE{
+  width: 100px;
+}
+#ENTER{
+  width: 90px;
+}
+
+#keyboard > div:nth-of-type(-n+11) {
+  grid-row-start: 1
+}
+#keyboard > div:nth-of-type(n+12):nth-of-type(-n+21) {
+  grid-row-start: 2
+}
+#keyboard > div:nth-of-type(n+22):nth-of-type(-n+29) {
+  grid-row-start: 3
+}
+
+#keyboard > div:nth-child(1){
+  grid-column: 1;
+}
+#keyboard > div:nth-child(2), #keyboard > div:nth-child(12){
+  grid-column: 2;
+}
+#keyboard > div:nth-child(3), #keyboard > div:nth-child(13), #keyboard > div:nth-child(22){
+  grid-column: 3;
+}
+#keyboard > div:nth-child(4), #keyboard > div:nth-child(14), #keyboard > div:nth-child(23){
+  grid-column: 4;
+}
+#keyboard > div:nth-child(5), #keyboard > div:nth-child(15), #keyboard > div:nth-child(24){
+  grid-column: 5;
+}
+#keyboard > div:nth-child(6), #keyboard > div:nth-child(16), #keyboard > div:nth-child(25){
+  grid-column: 6;
+}
+#keyboard > div:nth-child(7), #keyboard > div:nth-child(17), #keyboard > div:nth-child(26){
+  grid-column: 7;
+}
+#keyboard > div:nth-child(8), #keyboard > div:nth-child(18), #keyboard > div:nth-child(27){
+  grid-column: 8;
+}
+#keyboard > div:nth-child(9), #keyboard > div:nth-child(19), #keyboard > div:nth-child(28){
+  grid-column: 9;
+}
+#keyboard > div:nth-child(10), #keyboard > div:nth-child(20){
+  grid-column: 10;
+}
+#keyboard > div:nth-child(11), #keyboard > div:nth-child(21){
+  grid-column: 11;
+}
+
+
+.logout-form button {
+    background: none;
+    color: #555;
+    border: none; 
+    font-size: 1rem; 
+    cursor: pointer; 
+}
+

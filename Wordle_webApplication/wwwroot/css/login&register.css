@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#upper-bar {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 2vh 2rem;
+    border-bottom: 3px solid #808080;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#upper-bar .title {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+}
+
+#upper-bar .theme-toggle {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+#upper-bar .theme-toggle img {
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+#upper-bar .theme-toggle img:hover {
+    transform: scale(1.1);
+}
+
+
+
+
+form {
+    max-width: 400px;
+    margin: 5rem auto;
+    background-color: #a6a6a6;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-title {
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #333;
+}
+
+.form-divider {
+    margin: 1rem 0;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #555;
+    font-weight: 500;
+}
+
+.form-control {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox-label {
+    font-size: 0.95rem;
+    color: #333;
+}
+
+.validation-summary,
+.validation-message {
+    color: #d9534f;
+    font-size: 0.9rem;
+}
+
+.submit-button {
+    width: 100%;
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}
+
+.form-links {
+    text-align: center;
+}
+
+.form-link {
+    margin: 0.5rem 0;
+}
+
+.form-link a {
+color: #007bff;
+text-decoration: none;
+font-size: 0.95rem;
+}
+
+.form-link a:hover {
+    text-decoration: underline;
+}
+
+hr{
+    margin-bottom: 1rem;
+}
