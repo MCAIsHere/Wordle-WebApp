@@ -1,4 +1,4 @@
-**Wordle**
+# Wordle
 
 The daily word is refreshed automatically and the progress for each user is saved.
 
